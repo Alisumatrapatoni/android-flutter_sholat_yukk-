@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Niat Sholat Sunnah Tahajud",
+    "arabic": "اصلي سنة التهجد ركعتين مستقبل القبلة اداا لله تعالى الله اكبر",
+    "latin": "Ushalli Sunnatat tahajuddi rak'ataini mustakbilalkiblati ada'an lillahita'ala",
+    "terjemahan": "Aku berniat salat sunah tahajud 2 rakaat menghadap kiblat karena allah ta’ala. Allahu Akbar"
+  },
+  {
+    "id": 2,
+    "name": "Niat Sholat Sunnah Dhuha",
+    "arabic": "اصلي سنة الضحى ركعتين مستقبل القبلة اداا لله تعالى الله اكبر",
+    "latin": "Ushalli sunnatat duha' raka'aatini mustaqbilal qiblati adaa-an lillaahi ta'aala",
+    "terjemahan": "Aku berniat salat sunah dhuha 2 rakaat menhadap kiblat karena Allah Ta’ala. Allahu Akbar"
+  },
+  {
+    "id": 3,
+    "name": "Niat Sholat Sunnah Hajat",
+    "arabic": "اُصَلِّى سُنَّةَ الْحَاجَةِ رَكْعَتَيْنِ لِلهِ تَعَالَى",
+    "latin": "Usholli sunnatal-haajati rok’atayni lillahi ta’aala",
+    "terjemahan": "Aku berniat salat sunah hajat 2 rakaat menghadap kiblat karena Allah Ta’ala. Allahu Akbar"
+  },
+  {
+    "id": 4,
+    "name": "Niat Sholat Sunnah Witir",
+    "arabic": "اصلي سنة الوتر ركعتين مستقبل القبلة اداا لله تعالى الله اكبر",
+    "latin": "Ushalli sunnatat witiri raka'aataini mustaqbilal qiblati adaa-an lillaahi ta'aala",
+    "terjemahan": "Aku berniat shalat sunnah witir 2 rakaat menghadap kiblat karena Allah Ta’ala, Allahu Akbar.”"
+  },
+  {
+    "id": 5,
+    "name": "Niat Sholat Sunnah Istiqoroh",
+    "arabic": "أُصَلِّيْ سُنَّةَ الاِسْتِخَارَةِ رَكْعَتَيْنِ لِلَّهِ تَعَالَى",
+    "latin": "Ushollii sunnatal istikhooroti rok’ataini lillaahi ta’aalaa",
+    "terjemahan": "Au berniat shalat sunnah istikhoroh 2 rakaat menghadap kiblat karena Allah Ta’ala, Allahu Akbar"
+  }
+]
